@@ -1,2 +1,2 @@
 # BinarySearch
-Data Strcutres and ALgos practice using python.
+Data Structres and Algorithms practice using python.
